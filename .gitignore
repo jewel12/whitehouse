@@ -1,0 +1,4 @@
+.pio
+.vscode
+m5/src/env.h
+img-generators/.env.yaml
